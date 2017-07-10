@@ -1,5 +1,7 @@
 # dynamo-backup-to-s3
 
+This is a *fork* that includes support for restoring from s3 to a local instance (dynalite)
+
 ![dynamo to s3](https://raw.githubusercontent.com/sdesalas/dynamo-backup-to-s3/master/img/dynamo-backup-to-s3.png)
 
 ## Stream DynamoDB backups to S3.
